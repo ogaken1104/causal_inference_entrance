@@ -8,13 +8,15 @@ dependencies = [
     "causallib>=0.10.0",
     "causalpy>=0.6.0",
     "matplotlib>=3.10.8",
-    "numpy>=2.4.0",
+    "numpy>=2.3.5",
     "pandas>=2.3.3",
     "pymc>=5.26.1",
+    "pymc-extras>=0.6.0",
     "rddensity>=2.4.6",
     "rdrobust>=1.3.0",
     "scikit-learn>=1.8.0",
     "seaborn>=0.13.2",
+    "statsmodels>=0.14.6",
 ]
 
 [dependency-groups]
